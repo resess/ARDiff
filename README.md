@@ -10,7 +10,7 @@ Java Development Kit (JDK) version 8 is required.
 
 Clone the repository:
 ````yaml
-git clone https://github.com/shrBadihi/ARDiff_Equiv_Checking.git
+git clone https://github.com/resess/ARDiff.git
 ````
 
 ARDiff has dependencies on JPF-core, JPF-Symbc Z3-solver. We included all dependencies in the tool. 
